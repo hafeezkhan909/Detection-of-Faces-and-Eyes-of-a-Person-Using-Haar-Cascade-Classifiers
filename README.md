@@ -8,4 +8,3 @@ HAAR Classifiers are trained using lots of positive images (i.e. images with the
 
 NOTE:  This project requires your computer to have a webcam
 
-![image](https://user-images.githubusercontent.com/82383549/162267647-8f2d7e64-49de-4082-8767-78b69526a703.png)
