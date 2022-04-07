@@ -7,3 +7,5 @@ They are trained to identify one type of object, however, we can use several of 
 HAAR Classifiers are trained using lots of positive images (i.e. images with the object present) and negative images (i.e. images without the object present).
 
 NOTE:  This project requires your computer to have a webcam
+
+![image](https://user-images.githubusercontent.com/82383549/162267647-8f2d7e64-49de-4082-8767-78b69526a703.png)
