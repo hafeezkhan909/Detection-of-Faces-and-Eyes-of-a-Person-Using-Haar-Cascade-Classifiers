@@ -1,4 +1,4 @@
-# Detection-of-Faces-and-Eyes-of-a-Person-Using-Haar-Cascade-Classifiers
+# Facial-and-Retinal-Detection-Using-Haar-Cascade-Classifiers
 We are using Haar cascade classifier to detect faces and eyes from a webcam. 
 
 Haar cascade is an object detection method that uses a series of classifiers (cascade) to identify objects in an image. 
